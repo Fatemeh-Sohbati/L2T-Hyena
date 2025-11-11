@@ -46,3 +46,15 @@ Fig 3: Comparison of Training Loss
 
 This plot indicates that the proposed L2T-Hyena model converges significantly faster and to a lower final loss value than the baseline. This suggests a more efficient learning process on the training data, which also translated to better generalization (as seen in Figure 2).
 
+
+
+Citation
+@misc{sohbati2025l2thyena,
+  title={{L2T-Hyena: Enhancing State-Space Models with an Adaptive Learn-to-Teach Framework}},
+  author={Sohbati, Fatemeh and Haddadi, Farzan and Salahinejad, Hamid},
+  year={2025},
+  publisher={arXiv},
+  eprint={2511.05926},
+  archivePrefix={arXiv},
+  primaryClass={cs.IT}
+}
